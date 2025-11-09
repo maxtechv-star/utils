@@ -1,0 +1,80 @@
+# Version control
+.git/
+.gitignore
+.github/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npmrc
+
+# Development and testing
+test/
+tests/
+__tests__/
+*.test.js
+*.spec.js
+coverage/
+.nyc_output/
+
+# Examples and docs
+examples/
+demo/
+documentation/
+docs/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary folders
+.tmp/
+temp/
+tmp/
+
+# Build artifacts (if you add any later)
+dist/
+build/
+*.tsbuildinfo
+
+# Configuration files (keep only package.json)
+.eslintrc.js
+.prettierrc
+.prettierignore
+.eslintignore
+tsconfig.json
+babel.config.js
+webpack.config.js
+
+# Lock files (use only one)
+yarn.lock
+package-lock.json
+
+# Optional: Source files if you're compiling
+src/
+*.ts
