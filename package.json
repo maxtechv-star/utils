@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VeronDev/utils.git"
+    "url": "git+https://github.com/maxtechv-star/utils.git"
   },
   "bugs": {
-    "url": "https://github.com/VeronDev/utils/issues"
+    "url": "https://github.com/maxtechv-star/utils/issues"
   },
-  "homepage": "https://github.com/VeronDev/utils#readme",
+  "homepage": "https://github.com/maxtechv-star/utils#readme",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
