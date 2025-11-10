@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VeronDev/cyber-utils.git"
+    "url": "git+https://github.com/VeronDev/utils.git"
   },
   "bugs": {
-    "url": "https://github.com/VeronDev/cyber-utils/issues"
+    "url": "https://github.com/VeronDev/utils/issues"
   },
-  "homepage": "https://github.com/VeronDev/cyber-utils#readme",
+  "homepage": "https://github.com/VeronDev/utils#readme",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
