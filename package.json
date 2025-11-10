@@ -1,12 +1,11 @@
 {
-  "name": "cyber-utils",
+  "name": "@verondev/cyber-utils",
   "version": "1.0.0",
   "description": "Comprehensive utility library for WhatsApp bot development with media processing, store management, and plugin system",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npm publish --access public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "whatsapp",
@@ -28,6 +27,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/VeronDev/cyber-utils.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:wileys",
