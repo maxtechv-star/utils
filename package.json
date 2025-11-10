@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VeronDev/cyber-utils.git"
+    "url": "git+https://github.com/maxtechv-star/cyber-utils.git"
   },
   "publishConfig": {
     "access": "restricted",
